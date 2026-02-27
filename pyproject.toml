@@ -9,6 +9,8 @@ authors = [
 ]
 dependencies = [
     "flet>=0.81.0",
+    "pillow>=12.1.1",
+    "pyinstaller>=6.19.0",
 ]
 
 [dependency-groups]
